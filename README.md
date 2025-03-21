@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal Gangwal</h1>
 <h3 align="center">"A Python Enthusiast Exploring AI, Machine Learning, Deep Learning, NLP, and Computer Vision 🌟🤖🚀"</h3>
-<p> <img src="https://github.com/harshalgangwal/harshalgangwal/blob/main/profile-banner.jpg" align="right" alt="Coding" width="300" height="210"/> </p>
+<p> <img src="https://github.com/harshalgangwal/harshalgangwal/blob/main/"C:\Users\HP\OneDrive\Desktop\AI.webp"" align="right" alt="Coding" width="300" height="210"/> </p>
 
 - 🌟 I’m currently learning **AI, Machine Learning, Deep Learning, NLP, and Computer Vision 🤖**
 
