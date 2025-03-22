@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal Gangwal</h1>
-<h3 align="center">"A Python Enthusiast Exploring AI, Machine Learning, Deep Learning, NLP, and Computer Vision 🌟🤖🚀"</h3>
+<h3 align="center">"AI Engineer | Python Enthusiast | ML | Deep Learning | NLP | Computer Vision | Generative AI
+Passionate about building intelligent systems using AI, Machine Learning, and Deep Learning. Experienced in developing real-world applications, optimizing models, and leveraging NLP & Computer Vision for impactful solutions. Skilled in RAG, LLMs, and advanced AI architectures. 🚀🤖💡"</h3>
 <p> <img src="https://github.com/harshalgangwal/harshalgangwal/blob/main/AI.webp" align="right" alt="Coding" width="300" height="210"/> </p>
 
 - 🌟 I’m currently learning **AI, Machine Learning, Deep Learning, NLP, and Computer Vision 🤖**
