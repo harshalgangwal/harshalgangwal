@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Harshal Gangwal</h1>
-<h3 align="center">"AI Engineer | Python Enthusiast | ML | Deep Learning | NLP | Computer Vision | Generative AI
-Passionate about building intelligent systems using AI, Machine Learning, and Deep Learning. Experienced in developing real-world applications, optimizing models, and leveraging NLP & Computer Vision for impactful solutions. Skilled in RAG, LLMs, and advanced AI architectures. 🚀🤖💡"</h3>
+<h3 align="center">"AI Engineer | Python Enthusiast | ML | Deep Learning | NLP | Computer Vision | Generative AI"</h3>
+
+<h6 align="center">Passionate about building intelligent systems using AI, Machine Learning, and Deep Learning. Experienced in developing real-world applications, optimizing models, and leveraging NLP & Computer Vision for impactful solutions. Skilled in RAG, LLMs, and advanced AI architectures. 🚀🤖💡"</h6>
 <p> <img src="https://github.com/harshalgangwal/harshalgangwal/blob/main/AI.webp" align="right" alt="Coding" width="300" height="210"/> </p>
 
-- 🌟 I’m currently learning **AI, Machine Learning, Deep Learning, NLP, and Computer Vision 🤖**
+🌟 Exploring AI, Machine Learning, Deep Learning, NLP & Computer Vision 🤖
 
-- 🤝 I’m looking to collaborate on **AI-based projects and innovative SaaS solutions**
+🚀 Currently diving deep into AI, optimizing models, and building intelligent solutions.
 
-- 💡 Ask me about **Python, AI, ML, DL, NLP, Computer Vision, and Open Source Projects 🌟**
+🤝 Looking to collaborate on AI-driven projects, SaaS innovations, and open-source contributions.
 
-- 👨‍💻 I’m open to opportunities in **AI engineering, Data Science, and SaaS product development**
+💡 Ask me about Python, AI, ML, DL, NLP, Computer Vision, LLMs, and Generative AI.
+
+👨‍💻 Open to opportunities in AI Engineering, Data Science, and SaaS Product Development.
 
 - 📧 How to reach me **harshalgangwal07@gmail.com**
 
-- ✨ Fun fact: **I love debugging AI models but have never seen "Breaking Bad"! 🚀**
+✨ Fun fact: I can debug complex AI models, but I’ve never watched Breaking Bad! 😆🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
